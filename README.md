@@ -1,2 +1,3 @@
 # ChatAppPHP
-hi
+php files which connect ot data base
+
